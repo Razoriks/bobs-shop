@@ -1,0 +1,5 @@
+17:27 17th October	12 tires 	23 oil 	12 spark plugs	$1.10	122 Elm Street
+17:27 17th October	7 tires 	3 oil 	12 spark plugs	$855.80	34 Loneboard Street
+17:28 17th October	12 tires 	23 oil 	12 spark plugs	$1.10	
+17:30 17th October	12 tires 	23 oil 	12 spark plugs	$1.10	
+17:30 17th October	12 tires 	23 oil 	12 spark plugs	$1,625.80	
