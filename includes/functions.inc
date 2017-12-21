@@ -1,6 +1,6 @@
 <?php
 	/*
-	* My Test Functin comment
+	* My Test Function comment
 	*
 	*/
 	function MyTestFunction($example_value){
